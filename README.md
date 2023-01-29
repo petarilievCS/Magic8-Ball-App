@@ -1,16 +1,8 @@
-# magic_8_ball
+# Magic 8 Ball
 
-Magic 8 Ball app that answers questions.
+Cross-platform application that answers the user's question, developed using Dart and Flutter.
 
-## Getting Started
+# Screenshots 
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/90746623/215344815-6feac5fc-7dd8-489d-a5a6-fb67d5540605.png" width="296"/> <img/> <img src="https://user-images.githubusercontent.com/90746623/215344816-da99818c-fd28-4fa5-99c6-7f342c270ffd.png" width="296"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
